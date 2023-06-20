@@ -1,0 +1,118 @@
+
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/1036370283210227712/1117607812990775296/Valorant_Dev_Diary_24_Banner.png");
+      background-size: cover;
+ font-family: anton;
+ font-size: 18px;
+  color: white;
+  font-size: 23px;
+}
+ 
+
+ul {
+ background-color: #C4FF00;
+ font-family: News Cycle;
+ font-size: 18px;
+ color: white;
+}
+
+ol {
+  background-color: #C4FF00;
+  font-family:News Cycle;
+  font-size: 25px;
+}
+
+.button {
+      display: inline-block;
+      background-color: #89CFF0;
+      border: none;
+      color: White;
+      text-align: center;
+      font-size: 16px;
+      padding: 10px 20px;
+      margin: 5px;
+      text-decoration: none;
+      cursor: pointer;
+    } 
+
+
+
+index 
+
+
+
+.index-text {
+  text-align: center;
+}
+
+.image-container img {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-container p {
+  margin-top: 70px;
+}
+
+
+
+
+
+
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.video {
+  flex: 1;
+  text-align: right;
+}
+
+.video video {
+  margin-top: 70px;
+  width: 100%;
+  max-width: 400px;
+}
+
+
+
+
+
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid white;
+}
+
+
+p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+
+
+h2 {
+  margin-bottom: 10px;
+    color: Orange;
+}
+
+p {
+  margin-top: 35px;
+}
